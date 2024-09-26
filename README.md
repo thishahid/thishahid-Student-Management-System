@@ -1,5 +1,5 @@
 # Student Management System
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=light)
 ## Description
 
 This Java-based **Student Management System** allows users to manage student data (Name, Roll No., Marks) using a graphical user interface (GUI). The project uses **Java Swing** for the frontend, **MySQL** for the database, and **Java Database Connectivity (JDBC)** for database interaction. The system allows for the following operations:
